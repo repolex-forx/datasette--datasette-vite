@@ -1,0 +1,11 @@
+{
+  "org": "datasette",
+  "repo": "datasette-vite",
+  "versions": [
+    {
+      "commit": "e30144caefbac2e64f6170a70e3180e46d12f04d",
+      "tag": "0.0.1a4",
+      "parsed_at": "2026-10-12T16:58:34.509700+00:00"
+    }
+  ]
+}
