@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/datasette/datasette-vite/commit/e30144caefbac2e64f6170a70e3180e46d12f04d",
       "git:hexsha": "e30144caefbac2e64f6170a70e3180e46d12f04d",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.0.1a4"
     },
     {
